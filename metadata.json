@@ -1,0 +1,6 @@
+{
+  "name": "PyFileAuto - File Management & Automation Tool",
+  "description": "Python automation tool and Tkinter GUI to organize files and folders by type, date, and size using os and shutil with logging and error handling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
